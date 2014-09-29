@@ -55,7 +55,7 @@ canvas-clock-by-angular-directive
 
 - angular加载的过程
 
-![加载过程](./compileandlink.png)
+![加载过程](./compileandlink.jpg)
 
 理清了自定指令的基本属性配置，在`link`里面进行dom 操作进行canvas 的绘画就水到渠成了：
 
