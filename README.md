@@ -55,4 +55,4 @@ canvas-clock-by-angular-directive
 
 - angular加载的过程
 
-![加载过程](./compileandlink.png)
+![加载过程](./compileandlink.jpg)
